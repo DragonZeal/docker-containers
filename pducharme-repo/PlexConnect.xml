@@ -11,8 +11,8 @@
     [b]/mnt/cache/appdata/plexconnect[/b] : this path is used to store the PlexConnect SSL Certificates.[br]
     [b]/config[/b] : this path is used to store the Settings.cfg outside of the Docker Container for easy edit.[br]
  </Description>
-  <Registry>https://registry.hub.docker.com/u/pducharme/plexconnect/</Registry>
-  <Repository>pducharme/plexconnect</Repository>
+  <Registry>https://registry.hub.docker.com/u/dragonzeal/plexconnect/</Registry>
+  <Repository>dragonzeal/plexconnect</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
