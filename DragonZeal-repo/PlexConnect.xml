@@ -4,7 +4,7 @@
   <Category>Network:Web Network:DNS MediaServer:Video</Category>
   <Name>PlexConnect</Name>
   <Description>
-  This is a Dockerfile setup for PlexConnect - https://github.com/iBaa/PlexConnect.[br]This is a fork from needo PlexConnect docker.[br][br]
+  This is a Dockerfile setup for PlexConnect - https://github.com/iBaa/PlexConnect.[br]This is a fork from pducharme PlexConnect docker.[br][br]
   This run the latest PlexConnect from master branch and add support for PIL background by installing Python-imaging.[br]
   [b][span style='color: #E80000;']Directions:[/span][/b][br]
     Note: PlexConnect by default use ports 80 and 443, Unraid WebUI also use port 80. You need to either use the other ports for PlexConnect and use Reverse-Proxy -OR- change the Unraid WebUI port by editing go file on boot device.[br]
